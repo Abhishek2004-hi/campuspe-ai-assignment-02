@@ -14,4 +14,4 @@ print("|""Age     :",Age,"years")
 print("|""Course  :",Course)
 print("|""College :",College)
 print("|""Email   :",Email)
-
+print("=============================================")
