@@ -7,7 +7,7 @@ College="Tontadarya college of Engineering"
 Email='abhishekhiremath354@gmail.com'
 #display formatted card
 print("=============================================")
-print("            PERSONAL BIO CARD                ")
+print("|            PERSONAL BIO CARD               |")
 print("=============================================")
 print("|""Name    :",Name)
 print("|""Age     :",Age,"years")
