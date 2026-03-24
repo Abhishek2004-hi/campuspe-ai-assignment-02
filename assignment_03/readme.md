@@ -4,7 +4,7 @@
 So basically, this project connects to 5 different AI services — Groq, Ollama, Hugging Face, Google Gemini, and Cohere — using Python. Each one has its own script. You type something in, the AI responds. That's pretty much it.
 
 ## How to get it running
-First things first:
+First things :
 
 * Clone the repo to your computer.
 * Make sure Python is installed.
