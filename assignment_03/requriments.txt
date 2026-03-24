@@ -1,0 +1,7 @@
+groq
+ollama
+huggingface-hub
+google-generativeai
+cohere
+python-dotenv
+requests
