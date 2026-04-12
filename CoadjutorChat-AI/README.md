@@ -1,10 +1,10 @@
-# AuraChat — Chat UI
+# CoadjutorChat-AI — Chat UI
 
 A modern, responsive AI chat interface built for the CampusPe Gen AI Assignment.
 
 ## Tech Stack
-- HTML5 (semantic markup)
-- CSS3 (custom properties, flexbox, animations)
+- HTML5 
+- CSS3 
 - Bootstrap 5.3
 - jQuery 3.7
 - Font Awesome 6.5
